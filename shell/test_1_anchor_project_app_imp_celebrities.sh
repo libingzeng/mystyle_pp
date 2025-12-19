@@ -1,0 +1,10 @@
+python project_anchor.py \
+    --images_dir celebrities1/barack_obama/images_free/save01_imp/jpg \
+    --mask_dir celebrities1/barack_obama/images_free/save01_imp/mask \
+    --output_dir celebrities1/barack_obama/output_anchor_train/pca_rank_3_wspace_auto_yawpitchexp3/application_project_is_wplus0_imp_images_free_3999/ \
+    --anchor_dir celebrities1/barack_obama/output_anchor_train/pca_rank_3_wspace_auto_yawpitchexp3/application_project_is_wplus0_images_free_3999/w \
+    --generator_path celebrities1/barack_obama/output_anchor_train/pca_rank_3_wspace_auto_yawpitchexp3/debug/during/mystyle_model_step3999.pt \
+    --axis_path celebrities1/barack_obama/output_anchor_train/pca_rank_3_wspace_auto_yawpitchexp3/debug/during/anchors_axis_dict.pt \
+    --is_wplus False \
+    --is_super_res False \
+    --device 0 \
