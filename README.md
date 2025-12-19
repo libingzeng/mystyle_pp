@@ -7,7 +7,7 @@
 [MyStyle++: A Controllable Personalized Generative Prior](https://libingzeng.github.io/projects/mystyle++/mystyle++.htm)  
  [Libing Zeng](https://libingzeng.github.io/)<sup>1</sup>, [Lele Chen](https://lelechen63.github.io/)<sup>2</sup>, [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/)<sup>3</sup>, [Nima Khademi Kalantari](https://www.cs.tau.ac.il/~dcor/)<sup>1</sup> 
 
-<sup>1</sup> Texas A&M University, <sup>2</sup> Sony AI, <sup>2</sup> OPPO US Research Center
+<sup>1</sup> Texas A&M University, <sup>2</sup> Sony AI, <sup>3</sup> OPPO US Research Center
 
 ## Setup
 
